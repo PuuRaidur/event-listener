@@ -1,4 +1,4 @@
-**Event Listener Practice off a youtube tutorial**
+**Event Listener practice off a Youtube tutorial**
 
 function: addEventListener(event, function, useCapture)
 
