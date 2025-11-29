@@ -1,0 +1,10 @@
+{
+  "name": "event-listener",
+  "version": "1.0.0",
+  "description": "Event Listener Practice",
+  "main": "listener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
